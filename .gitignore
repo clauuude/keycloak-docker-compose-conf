@@ -1,0 +1,3 @@
+/.idea/
+/docker-compose/pgdata/
+mysql-docker-compose.yml
