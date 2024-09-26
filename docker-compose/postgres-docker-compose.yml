@@ -31,7 +31,6 @@ services:
       KC_DB_URL: jdbc:postgresql://postgres:5432/keycloak
       KC_HOSTNAME: localhost
       KC_FEATURES: token-exchange,admin-fine-grained-authz
-#      KC_HTTP_RELATIVE_PATH: /keycloak
     networks:
       - local
 networks:
